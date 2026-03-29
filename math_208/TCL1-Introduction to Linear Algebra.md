@@ -287,8 +287,6 @@ $$
 $$
 From this final matrix, you can then convert it back into equation form and solve for each of the variables. Refer back to example 4 for the exact solution.
 
-----------
-Footnotes
 [^1]: https://www.youtube.com/watch?v=4qimdBeqDRk&list=PLMod2FLe8bTMCJyUqoqlJEMHAXe06Hx6h
 
 
