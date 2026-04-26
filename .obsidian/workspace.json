@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math_208/TCL-3-Applications of Linear Systems.md",
+                "file": "Reflections/The Changing Landscape of Clubs and Club Leadership.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCL-3-Applications of Linear Systems"
+              "title": "The Changing Landscape of Clubs and Club Leadership"
             }
           }
         ]
@@ -182,9 +182,10 @@
   },
   "active": "1e5ba085a669c389",
   "lastOpenFiles": [
+    "math_208/TCL-3-Applications of Linear Systems.md",
+    "Reflections/The Changing Landscape of Clubs and Club Leadership.md",
     "math_208/TCL1-Introduction to Linear Algebra.md",
     "math_208/TCL2-Gaussian Elimination.md",
-    "math_208/TCL-3-Applications of Linear Systems.md",
     "template.md",
     "Untitled.canvas",
     "2026-03-31.md",
